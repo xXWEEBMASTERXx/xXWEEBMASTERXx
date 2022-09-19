@@ -31,7 +31,7 @@ namespace Nintendo_Switch
                     Console.ReadLine();
                     break;
                 case 1:
-                    Console.WriteLine("Buktad köcsög");
+                    Console.WriteLine("bukta");
                     Console.ReadLine();
                     break;
                 default:
@@ -143,11 +143,110 @@ namespace Nintendo_Switch
                 case 22:
                 case 23:
                 case 24:
-                    Console.WriteLine("jézus fasza, mennyit alszol mán");
+                    Console.WriteLine("nagyon sok");
                     Console.ReadLine();
                     break;
                 default:
                     Console.WriteLine("Adj meg egy számot 0 és 24 között");
+                    Console.ReadLine();
+                    break;
+            }
+            Console.Write("Adj meg egy számot 1 és 30 között");
+            int day = int.Parse(Console.ReadLine());
+            switch (day)
+            {
+                case 1:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 2:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 3:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 4:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 5:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 6:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 7:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 8:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 9:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 10:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 11:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 12:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 13:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 14:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 15:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 16:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 17:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 18:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 19:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 20:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 21:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 22:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 23:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 24:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 25:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 26:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 27:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 28:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 29:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                case 30:
+                    Console.WriteLine("");
+                    Console.ReadLine();
+                default:
+                    Console.WriteLine("Adj meg egy számot 1 és 30 között");
                     Console.ReadLine();
                     break;
             }
