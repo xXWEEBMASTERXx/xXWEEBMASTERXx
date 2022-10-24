@@ -289,7 +289,18 @@ namespace triggered
                             i++;
                         }
                         Console.Write("A farkas legkisebb libája {0} kg.", Libak[minid]);
-                    }
+
+                    int[] t = { 9, 7, 3, 5, 4, 2, 6 };
+                    int n = t.Length;
+                    int ker = 5; 
+
+                    bool van = false;
+                    for (int x = 0; x < n; x++)
+                        if (t[x] == ker)
+                            van = true;
+
+                    Console.WriteLine("Igaz-e, hogy van 5-ös a tömbben?: {0}", van);
+                }
                 }
             }
         }
