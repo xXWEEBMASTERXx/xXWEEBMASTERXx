@@ -34,9 +34,10 @@ FROM `felhokarcolok`
 ORDER BY `magassag` DESC
 LIMIT 3
 -- 12. feladat
-SELECT `nev`, `orszagkod`, IFNULL(`varos`, 'ismeretlen') as ``varos`_`nev`e`, `befejezes_eve`, `anyag`
+SELECT `nev`, `orszagkod`, IFNULL(`varos`, 'ismeretlen') as `varos_neve`, `befejezes_eve`, `anyag`
 FROM `felhokarcolok`
-WHERE `befejezes_eve` >= 1990 AND `befejezes_eve` < 2000 AND `anyag` = 'acel' or `anyag` = 'kompozit' AND `orszagkod` = 'CN'or `orszagkod` = 'RU' or `orszagkod` = 'MY'
+WHERE `befejezes_eve` >= 1990 AND `befejezes_eve` < 2000 AND (`anyag` = 'acel' or `anyag` = 'kompozit') AND (`orszagkod` = 'CN'or `orszagkod` = 'RU' or `orszagkod` = 'MY')
+ORDER BY `orszagkod`
 -- 13. feladat
 SELECT MAX(`emeletek`) AS 'legtobb_emelet'
 FROM `felhokarcolok`
