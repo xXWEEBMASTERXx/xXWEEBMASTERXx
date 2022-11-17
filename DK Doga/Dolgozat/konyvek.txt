@@ -1,0 +1,80 @@
+Tájékoztató
+Tankönyvek
+Informatika tankönyvcsalád
+ITK 9.-10. (tankönyv)
+IFGY (tankönyv)
+WVO 2010 (tankönyv)
+Informatika érettségi a gyakorlatban
+Informatika érettségi mindkét szinten (tankönyv)
+WOF feladatgyűjtemény
+A programozás VBN-ben (tankönyv)
+Windows és Office tankönyvek
+WVO 2010 (tankönyv)
+WVO 2010 felhasználóknak
+WO 2010 felhasználóknak
+WOF feladatgyűjtemény
+A WV a hétköznapokon
+Az O2019 hétköznapokon
+Bevezetés az O 2016 használatába
+Programozási ismeretek
+C# nyelv
+VB nyelv
+A programozás VBN-ben (tankönyv)
+Programozás emelt szinten
+Az SQL emelt szinten
+Megrendelés menete
+Közvetlen iskolai rendelés
+Könyveinket az iskolák közvetlenül is megrendelhetik, ebben az esetben azokat az iskolai áron postán küldjük vagy közvetlenül szállítjuk. Az iskolai megrendeléshez cégszerűen aláírt megrendelő szükséges, amely lehet a szokásos tankönyvi rendelőlap, a letölthető rendelőlap vagy egy egyszerű hivatalos levél is.
+Tudnivalók évközi rendelés esetén
+A könyveket a megrendelés beérkezését követő két héten belül, raktárkészletünk erejéig tudjuk teljesíteni.
+Iskolai áron csak cégszerűen aláírt iskolai megrendelés esetén tudjuk a könyveket szállítani. 
+A számlát az iskola (vagy a fenntartó) részére állítjuk ki, vevőként más adatot nem tüntetünk fel (sem külső személy, sem iskolai dolgozó nevét). Egyéni vásárlóknak a velünk kapcsolatban álló könyvesboltokat ajánljuk.
+Amennyiben a megrendelés összege meghaladja a 30.000 Ft-ot, úgy 8% kedvezményt biztosítunk a terjesztő részére, melyet a számla nettó összegéből vonunk le, vagy megbízási díjként fizetünk ki.
+5.000 Ft alatti megrendelés esetén 630 Ft csomagolási és postaköltséget számítunk fel.
+Tanfolyami rendelés
+A hatósági nyilvántartásban (Munkaügyi Központ) szereplő felnőttképzési intézményeknek kedvezményes áron szállítjuk könyveinket, amennyiben legalább egy tanfolyami csoport (10 példány) részére rendelnek.
+A megrendeléshez szükséges adatok: a tanfolyamszervező neve, címe (postázáshoz illetve számlázáshoz), a hatósági nyilvántartási száma, cégszerű aláírás. Javasoljuk a mellékelt megrendelőlap használatát.
+A számlát minden esetben közvetlenül a tanfolyamszervezőnek állítjuk ki (nem a hallgatóknak!).
+A könyveket postai utánvéttel küldjük, 5.000 Ft fölötti megrendelés esetén a postaköltséget magunkra vállaljuk.
+A megrendelést tanfolyami és iskolai megrendelés esetén is a következő címre kérjük elküldeni:
+Postán: FCSTA Kiadó, 1242 Budapest, Táncsics M. u. 92.
+Faxon: (1) - 9999-5555
+Megközelíthetőségünk
+Az ábrán négyzet jelöli a Táncsics M. u. 92. alatti telephelyünket, és kör a József Attila u. 15. alatti raktárunkat. Kérjük, hogy könyvszállítás előtt telefonon egyeztessenek a szállítás időpontjáról!
+Megrendelőlap
+Iskolai megrendelés
+Raktári szám	Cím	Iskolai ár	db
+FCSTA-0006	ITK 9-10. (tankönyv)	1.365 Ft	
+FCSTA-0009	IFGY (tankönyv)	1.365 Ft	
+FCSTA-0011	WVO 2010 (tankönyv)	1.365 Ft	
+FCSTA-0012	Informatika érettségi a gyakorlatban	1.155 Ft	
+FCSTA-0013	Informatika érettségi mindkét szinten (tankönyv)	697 Ft	
+FCSTA-0016	WOF feladatgyűjtemény	1.890 Ft	
+FCSTA-0151	A programozás VBN-ben (tankönyv)	1.685 Ft	
+FCSTA-0162	WVO 2010 felhasználóknak	1.395 Ft	
+FCSTA-0174	WO 2010 felhasználóknak	1.395 Ft	
+FCSTA-0192	WO 2010 felhasználóknak	1.395 Ft	
+FCSTA-0212	WOF feladatgyűjtemény	1.260 Ft	
+FCSTA-0213	A WV a hétköznapokon	1.295 Ft	
+FCSTA-0214	Az O2019 hétköznapokon	1.365 Ft	
+FCSTA-0232	Bevezetés az O 2016 használatába	1.365 Ft	
+FCSTA-0233	C# nyelv 	2.520 Ft	
+FCSTA-0235	VB nyelv	1.260 Ft	
+FCSTA-0251	A programozás VBN-ben (tankönyv)	1.365 Ft	
+FCSTA-0252	Programozás emelt szinten	1.365 Ft	
+FCSTA-0253	Az SQL emelt szinten	1.395 Ft	
+FCSTA-0321	LE-CSO	4.990 Ft	
+FCSTA-0332	Fizika I.	2.520 Ft	
+FCSTA-0351	Fizika II.	1.575 Ft	
+FCSTA-0371	Matematika I.	1.890 Ft	
+FCSTA-0403	Matematika II.	1.575 Ft	
+FCSTA-0511	Matematika III.	987 Ft	
+Fizetés módja: 	Átutalás	Csekk
+Az iskola OM kódja: 	
+Tankönyvfelelős neve: 	
+Telefonszáma: 	
+Az iskola neve: 	
+Az iskola címe: 	
+Szállítási határidő: (A megrendelést követően legalább 10 nap.)	
+Kérjük, jelezzék, ha a számlázási cím az iskola címétől eltér!
+Kelt:
