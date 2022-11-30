@@ -1,0 +1,259 @@
+body {
+    font: 14px Arial;
+    padding-top: 3em;
+  }
+  
+  @keyframes noTransformAnim {
+    50% {
+      transform: none;
+    }
+  }
+  
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    background: #f1f1f1;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(black, 0.2);
+    padding: 10px;
+  
+    h1 {
+      font-size: 1.1em;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  
+  .inputItem {
+    float: right;
+  
+    label {
+      vertical-align: middle;
+      margin-right: 1em;
+    }
+    input {
+      vertical-align: middle;
+      width: 350px;
+    }
+    span {
+      font-family: monospace;
+      color: purple;
+    }
+  }
+  
+  section {
+    $size: 300px;
+  
+    style {
+      font: 12px monospace;
+      white-space: nowrap;
+      position: absolute;
+      display: block;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      background: #fff;
+      color: #333;
+      padding: 8px 10px;
+      margin-bottom: 1em;
+      transition: 0.2s;
+      outline: none;
+    }
+  
+    .tWrap {
+      perspective: 500px;
+      position: relative;
+      overflow: hidden;
+      padding-top: 50px;
+      margin: 20px;
+      width: $size;
+      height: $size;
+      float: left;
+      position: relative;
+      border: 1px solid #eee;
+      transition: 0.2s 0.3s;
+      transition-property: box-shadow, opacity;
+  
+      &:hover {
+        overflow: visible;
+        z-index: 5;
+        box-shadow: 0 0 0 9999px rgba(white, 0.5);
+        transition-delay: 0s;
+  
+        style {
+          z-index: 1;
+          background: lightyellow;
+        }
+      }
+  
+      > p {
+        position: absolute;
+        z-index: 20;
+        width: 33px;
+        height: 33px;
+        border-radius: 40px 0 0 0;
+        bottom: 0;
+        right: 0;
+        margin: 0;
+        font: 20px/2 Arial;
+        text-indent: 15px;
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+        cursor: default;
+  
+        &:hover {
+          background: #f1f1f1;
+        }
+      }
+  
+      > .box {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: $size/2;
+        height: $size/2;
+        margin: auto;
+        background: linear-gradient(to bottom, #82bcf2 0%, transparent 300%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+        color: #fff;
+        font-weight: bold;
+        border-radius: 3px;
+      }
+  
+      > .lines {
+        opacity: 0.5;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+  
+        .line {
+          $color: #888;
+          position: absolute;
+  
+          &X {
+            border-bottom: 1px dashed $color;
+            height: 1px;
+            left: 0;
+            top: 50%;
+            width: 100%;
+          }
+  
+          &Y {
+            border-left: 1px dashed $color;
+            height: 100%;
+            left: 50%;
+            top: 0;
+            width: 1px;
+          }
+  
+          &Z {
+            border-left: 2px dashed green;
+            height: 100%;
+            left: 50%;
+            top: 0;
+            transform: rotateX(90deg);
+            width: 1px;
+          }
+        }
+      }
+  
+      p:hover + .box {
+        animation: 1s noTransformAnim infinite;
+      }
+  
+      //     $transforms: scale, scale3d, translate, rotate, rotate3d, rotatex, rotatey, rotatez, skew, matrix, matrix3d, translate3d;
+  
+      //     @each $transform in $transforms {
+      //         &.#{$transform}Wrap{
+      //           p:hover + .box{ animation:1s #{$transform}Anim infinite; }
+      //         }
+      //     }
+    }
+  }
+  
+  $keyframes: (
+    scale: (
+      2.2,
+      0.2
+    ),
+    scale3d: (
+      3,
+      1,
+      0.6
+    ),
+    translate: (
+      -20px,
+      -50%
+    ),
+    rotate: (
+      -20deg
+    ),
+    rotate3d: (
+      5,
+      3,
+      5,
+      40deg
+    ),
+    rotatex: (
+      -20deg
+    ),
+    rotatey: (
+      -20deg
+    ),
+    rotatez: (
+      -20deg
+    ),
+    skew: (
+      -30deg,
+      -20deg
+    ),
+    matrix: (
+      0,
+      1,
+      3.2,
+      2,
+      5,
+      2
+    ),
+    matrix3d: (
+      1.5,
+      -0.03,
+      0,
+      0.002,
+      -0.003,
+      1.2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      20,
+      50,
+      0,
+      1
+    ),
+    translate3d: (
+      22px,
+      -50%,
+      -5em
+    )
+  );
+  
+  @each $key, $value in $keyframes {
+    // @keyframes #{$key}Anim{
+    //   50%{ transform: #{$key}unquote("(") $value unquote(")") }
+    // }
+  }
+  
