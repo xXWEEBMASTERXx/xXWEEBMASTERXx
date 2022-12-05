@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bike Tumble", "Bike Tumble\Bike Tumble.csproj", "{1B6067AB-32BF-4D28-B4CE-377C91D864FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6067AB-32BF-4D28-B4CE-377C91D864FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6067AB-32BF-4D28-B4CE-377C91D864FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6067AB-32BF-4D28-B4CE-377C91D864FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6067AB-32BF-4D28-B4CE-377C91D864FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51419039-6A2F-443F-A1CE-BBF85B1799CE}
+	EndGlobalSection
+EndGlobal
