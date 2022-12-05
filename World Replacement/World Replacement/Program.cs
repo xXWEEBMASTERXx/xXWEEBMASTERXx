@@ -12,7 +12,6 @@ namespace World_Replacement
         static void Main(string[] args)
         {
             //1. Feladat
-            StreamReader price = new StreamReader("tortak 2.txt");
             string[] Products = File.ReadAllLines("tortak 1.txt");
             string[] Product_price_string = File.ReadAllLines("tortak 2.txt");
             int[] Product_price = new int[100];
