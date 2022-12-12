@@ -1,0 +1,22 @@
+Kiss István;ELTE-IK;programtervezõ informatikus;330
+Horváth Anna;BKF-KMK;elektronikus ábrázolás;400
+Németh Ágnes;ELTE-IK;programtervezõ informatikus;340
+Tóth Gábor;BKF-KMK;kameraman;400
+Borsós Tamás;BME-GÉK;gépészmérnöki;375
+Vass Katalin;DE-BTK;anglisztika;370
+Márton Bálint;BKF-KMK;kameraman;380
+Nagy Viktória;ELTE-IK;programtervezõ informatikus;300
+Nagy Annamária;BKF-KMK;elektronikus ábrázolás;398
+Bíró Balázs;ELTE-IK;programtervezõ informatikus;330
+Végh Norbert;ELTE-IK;programtervezõ informatikus;345
+Vitéz Bence;BGF-PSZK-BP;gazdaságinformatikus;305
+Tóth Anita;BGF-PSZK-BP;gazdaságinformatikus;310
+Tóth Márton;BKF-KMK;kameraman;400
+Kiss Péter;ELTE-IK;programtervezõ informatikus;320
+Nagy Tivadar;ELTE-IK;programtervezõ informatikus;329
+Petõ László;BCE-TÁJK;tájrendezõ és kertépítõ mérnöki;372
+Varga Kornélia;BCE-KTK;emberi erõforrások;450
+Kiss Katalin;BGF-PSZK-BP;pénzügy és számvitel;420
+Kiss Tamás;BME-GÉK;gépészmérnöki;380
+Nagy Béla;DE-BTK;anglisztika;390
+Zelkó András;SZTE-ÁJK;nemzetközi tanulmányok;400
