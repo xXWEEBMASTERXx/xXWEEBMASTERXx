@@ -1,0 +1,7 @@
+D:\Gyányi Dániel\Bike Tumble\Bike Tumble\bin\Debug\Bike Tumble.exe.config
+D:\Gyányi Dániel\Bike Tumble\Bike Tumble\bin\Debug\Bike Tumble.exe
+D:\Gyányi Dániel\Bike Tumble\Bike Tumble\bin\Debug\Bike Tumble.pdb
+D:\Gyányi Dániel\Bike Tumble\Bike Tumble\obj\Debug\Bike Tumble.csproj.AssemblyReference.cache
+D:\Gyányi Dániel\Bike Tumble\Bike Tumble\obj\Debug\Bike Tumble.csproj.CoreCompileInputs.cache
+D:\Gyányi Dániel\Bike Tumble\Bike Tumble\obj\Debug\Bike Tumble.exe
+D:\Gyányi Dániel\Bike Tumble\Bike Tumble\obj\Debug\Bike Tumble.pdb

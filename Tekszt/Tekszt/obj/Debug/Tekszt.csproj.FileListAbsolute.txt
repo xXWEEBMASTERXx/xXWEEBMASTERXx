@@ -1,7 +1,0 @@
-D:\Gyányi Dániel\VS\Tekszt\Tekszt\bin\Debug\Tekszt.exe.config
-D:\Gyányi Dániel\VS\Tekszt\Tekszt\bin\Debug\Tekszt.exe
-D:\Gyányi Dániel\VS\Tekszt\Tekszt\bin\Debug\Tekszt.pdb
-D:\Gyányi Dániel\VS\Tekszt\Tekszt\obj\Debug\Tekszt.csproj.AssemblyReference.cache
-D:\Gyányi Dániel\VS\Tekszt\Tekszt\obj\Debug\Tekszt.csproj.CoreCompileInputs.cache
-D:\Gyányi Dániel\VS\Tekszt\Tekszt\obj\Debug\Tekszt.exe
-D:\Gyányi Dániel\VS\Tekszt\Tekszt\obj\Debug\Tekszt.pdb

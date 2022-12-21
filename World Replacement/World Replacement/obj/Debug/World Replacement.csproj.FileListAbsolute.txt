@@ -1,7 +1,0 @@
-D:\Gyányi Dániel\World Replacement\World Replacement\bin\Debug\World Replacement.exe.config
-D:\Gyányi Dániel\World Replacement\World Replacement\bin\Debug\World Replacement.exe
-D:\Gyányi Dániel\World Replacement\World Replacement\bin\Debug\World Replacement.pdb
-D:\Gyányi Dániel\World Replacement\World Replacement\obj\Debug\World Replacement.csproj.AssemblyReference.cache
-D:\Gyányi Dániel\World Replacement\World Replacement\obj\Debug\World Replacement.csproj.CoreCompileInputs.cache
-D:\Gyányi Dániel\World Replacement\World Replacement\obj\Debug\World Replacement.exe
-D:\Gyányi Dániel\World Replacement\World Replacement\obj\Debug\World Replacement.pdb

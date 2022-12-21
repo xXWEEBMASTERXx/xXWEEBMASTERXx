@@ -1,7 +1,0 @@
-D:\Gyányi Dániel\VS\triggered\triggered\bin\Debug\triggered.exe.config
-D:\Gyányi Dániel\VS\triggered\triggered\bin\Debug\triggered.exe
-D:\Gyányi Dániel\VS\triggered\triggered\bin\Debug\triggered.pdb
-D:\Gyányi Dániel\VS\triggered\triggered\obj\Debug\triggered.csproj.AssemblyReference.cache
-D:\Gyányi Dániel\VS\triggered\triggered\obj\Debug\triggered.csproj.CoreCompileInputs.cache
-D:\Gyányi Dániel\VS\triggered\triggered\obj\Debug\triggered.exe
-D:\Gyányi Dániel\VS\triggered\triggered\obj\Debug\triggered.pdb

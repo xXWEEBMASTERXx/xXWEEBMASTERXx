@@ -1,2 +1,0 @@
-D:\gyányi Dániel\VS\I Want 2 die\FckMyLife\obj\Debug\FckMyLife.csproj.AssemblyReference.cache
-D:\gyányi Dániel\VS\I Want 2 die\FckMyLife\obj\Debug\FckMyLife.csproj.CoreCompileInputs.cache

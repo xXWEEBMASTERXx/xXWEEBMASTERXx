@@ -1,7 +1,0 @@
-D:\Gyányi Dániel\VS\For\For\bin\Debug\For.exe.config
-D:\Gyányi Dániel\VS\For\For\bin\Debug\For.exe
-D:\Gyányi Dániel\VS\For\For\bin\Debug\For.pdb
-D:\Gyányi Dániel\VS\For\For\obj\Debug\For.csproj.AssemblyReference.cache
-D:\Gyányi Dániel\VS\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
-D:\Gyányi Dániel\VS\For\For\obj\Debug\For.exe
-D:\Gyányi Dániel\VS\For\For\obj\Debug\For.pdb

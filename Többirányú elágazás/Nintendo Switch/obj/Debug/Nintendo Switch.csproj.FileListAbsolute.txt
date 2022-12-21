@@ -1,7 +1,0 @@
-D:\Gyányi Dániel\Többirányú elágazás\Nintendo Switch\bin\Debug\Nintendo Switch.exe.config
-D:\Gyányi Dániel\Többirányú elágazás\Nintendo Switch\bin\Debug\Nintendo Switch.exe
-D:\Gyányi Dániel\Többirányú elágazás\Nintendo Switch\bin\Debug\Nintendo Switch.pdb
-D:\Gyányi Dániel\Többirányú elágazás\Nintendo Switch\obj\Debug\Nintendo Switch.csproj.AssemblyReference.cache
-D:\Gyányi Dániel\Többirányú elágazás\Nintendo Switch\obj\Debug\Nintendo Switch.csproj.CoreCompileInputs.cache
-D:\Gyányi Dániel\Többirányú elágazás\Nintendo Switch\obj\Debug\Nintendo Switch.exe
-D:\Gyányi Dániel\Többirányú elágazás\Nintendo Switch\obj\Debug\Nintendo Switch.pdb

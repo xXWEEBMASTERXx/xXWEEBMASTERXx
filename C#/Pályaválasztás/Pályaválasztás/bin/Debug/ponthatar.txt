@@ -1,0 +1,30 @@
+ELTE-IK
+programtervezõ informatikus
+329
+BKF-KMK
+elektronikus ábrázolás
+398
+BKF-KMK
+kameraman
+400
+BCE-KTK
+emberi erõforrások
+449
+BCE-TÁJK
+tájrendezõ és kertépítõ mérnöki
+362
+BGF-PSZK-BP
+gazdaságinformatikus
+301
+BGF-PSZK-BP
+pénzügy és számvitel
+401
+BME-GÉK
+gépészmérnöki
+375
+DE-BTK
+anglisztika
+369
+SZTE-ÁJK
+nemzetközi tanulmányok
+431

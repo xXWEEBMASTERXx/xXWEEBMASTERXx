@@ -1,7 +1,0 @@
-D:\gyányi Dániel\VS\Pályaválasztás\Pályaválasztás\bin\Debug\Pályaválasztás.exe.config
-D:\gyányi Dániel\VS\Pályaválasztás\Pályaválasztás\bin\Debug\Pályaválasztás.exe
-D:\gyányi Dániel\VS\Pályaválasztás\Pályaválasztás\bin\Debug\Pályaválasztás.pdb
-D:\gyányi Dániel\VS\Pályaválasztás\Pályaválasztás\obj\Debug\Pályaválasztás.csproj.AssemblyReference.cache
-D:\gyányi Dániel\VS\Pályaválasztás\Pályaválasztás\obj\Debug\Pályaválasztás.csproj.CoreCompileInputs.cache
-D:\gyányi Dániel\VS\Pályaválasztás\Pályaválasztás\obj\Debug\Pályaválasztás.exe
-D:\gyányi Dániel\VS\Pályaválasztás\Pályaválasztás\obj\Debug\Pályaválasztás.pdb
