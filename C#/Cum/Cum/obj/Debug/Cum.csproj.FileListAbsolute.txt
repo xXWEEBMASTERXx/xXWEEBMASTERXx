@@ -1,0 +1,7 @@
+D:\gyányi Dániel\VS\Cum\Cum\bin\Debug\Cum.exe.config
+D:\gyányi Dániel\VS\Cum\Cum\bin\Debug\Cum.exe
+D:\gyányi Dániel\VS\Cum\Cum\bin\Debug\Cum.pdb
+D:\gyányi Dániel\VS\Cum\Cum\obj\Debug\Cum.csproj.AssemblyReference.cache
+D:\gyányi Dániel\VS\Cum\Cum\obj\Debug\Cum.csproj.CoreCompileInputs.cache
+D:\gyányi Dániel\VS\Cum\Cum\obj\Debug\Cum.exe
+D:\gyányi Dániel\VS\Cum\Cum\obj\Debug\Cum.pdb
