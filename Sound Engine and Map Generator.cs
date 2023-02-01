@@ -99,3 +99,12 @@ static void ConsoleDraw(IEnumerable<string> lines, int x, int y)
             }
             return map;
         }
+        Console.WindowWidth = 160;
+        Console.WriteLine("\n\n");
+        var maxLength = Title01.Aggregate(0, (max, line) => Math.Max(max, line.Length));
+        var x = Console.BufferWidth / 2 - maxLength / 2;
+        for (int y = -Title01.Length; y < Console.WindowHeight + Title01.Length; y++)
+        {
+                ConsoleDraw(Title01, x, y);
+                Thread.Sleep(100);
+        }
