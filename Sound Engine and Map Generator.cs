@@ -27,26 +27,6 @@ static void ConsoleDraw(IEnumerable<string> lines, int x, int y)
                 Console.Write(line.Text);
             }
         }
-        class Sound
-        {
-            private MediaPlayer music_Player;
-
-            public void Play(string filename)
-            {
-                music_Player = new MediaPlayer();
-                music_Player.Open(new Uri(filename, UriKind.Relative));
-                music_Player.Play();
-            }
-            public void Stop()
-            {
-                music_Player.Stop();
-            }
-
-            public void SetVolume(int volume)
-            {
-                music_Player.Volume = volume / 100.0f;
-            }
-        }
         const int MapWidth = 82;
         const int MapHeight = 42;
         const char Wall = '█';
@@ -98,6 +78,26 @@ static void ConsoleDraw(IEnumerable<string> lines, int x, int y)
                 map[MapWidth - 1, i] = Wall;
             }
             return map;
+        }
+class Sound
+        {
+            private MediaPlayer music_Player;
+
+            public void Play(string filename)
+            {
+                music_Player = new MediaPlayer();
+                music_Player.Open(new Uri(filename, UriKind.Relative));
+                music_Player.Play();
+            }
+            public void Stop()
+            {
+                music_Player.Stop();
+            }
+
+            public void SetVolume(int volume)
+            {
+                music_Player.Volume = volume / 100.0f;
+            }
         }
         Console.WindowWidth = 160;
         Console.WriteLine("\n\n");
