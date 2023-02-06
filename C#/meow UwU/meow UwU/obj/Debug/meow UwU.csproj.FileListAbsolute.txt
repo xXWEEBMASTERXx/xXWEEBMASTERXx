@@ -1,0 +1,7 @@
+D:\gyányi Dániel\VS\meow UwU\meow UwU\bin\Debug\go fuck yourself.exe.config
+D:\gyányi Dániel\VS\meow UwU\meow UwU\bin\Debug\go fuck yourself.exe
+D:\gyányi Dániel\VS\meow UwU\meow UwU\bin\Debug\go fuck yourself.pdb
+D:\gyányi Dániel\VS\meow UwU\meow UwU\obj\Debug\meow UwU.csproj.AssemblyReference.cache
+D:\gyányi Dániel\VS\meow UwU\meow UwU\obj\Debug\meow UwU.csproj.CoreCompileInputs.cache
+D:\gyányi Dániel\VS\meow UwU\meow UwU\obj\Debug\go fuck yourself.exe
+D:\gyányi Dániel\VS\meow UwU\meow UwU\obj\Debug\go fuck yourself.pdb
