@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <p id="wotvym"></p>
+    <button onclick="leapYear()"></button>
+    <script>
+        let a=prompt("adj meg szám");
+        alert(a*2);
+        alert(a*a);
+
+        let b=prompt("adj meg név");
+        document.write("Konnichiwa "+b+"!\n");
+
+        let c=prompt("adj meg születés");
+        document.write(2023-c+"\n");
+
+        let d=prompt("adj meg szám");
+        let e=prompt("adj meg szám");
+        let f=prompt("adj meg szám");
+        document.write((d+e+f)/3);
+
+        const g = new Date();
+        document.getElementById("wotvym").innerHTML = g.getSeconds();
+
+        let h=prompt("adj meg szám");
+        document.write(((h/100)*85)+"\n");
+        document.write(((h/100)*70)+"\n");
+        document.write(((h/100)*50)+"\n");
+        document.write(((h/100)*35)+"\n");
+
+        let i=prompt("adj meg szám");
+        let j=prompt("adj meg szám");
+        if (i > j) {
+            document.write(i+" nagyobb\n");
+        }
+        else {
+            document.write(j+" nagyobb\n");
+        }
+
+        let k=prompt("adj meg szám")
+        if (k % 2 == 0) {
+            document.write(k+" páros\n")
+        }
+        else {
+            document.write(k+" páratlan\n")
+        }
+
+        let l=prompt("adj meg víz hő")
+        if (100>l>0) {
+            document.write("a víz az víz\n")
+        }
+        else if (l>100) {
+            document.write("a víz az gőz\n")
+        }
+        else {
+            document.write("a víz az jég\n")
+        }
+        
+        let m=prompt("adj meg év\n")
+        function leapYear(year) {
+        return document.write((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
+        }
+
+        let n=prompt("adj meg szám")
+        let o=prompt("adj meg szám")
+        let p=prompt("adj meg szám")
+        /*  e*/
+        if (((n*n)-(o*o)-(p*p)) > 0) {
+            document.write("derékszög");
+        }
+        else if (((n*n)-(o*o)-(p*p)) < 0) {
+            document.write("hegyesszög");
+        }
+        else {
+            document.write("tompaszög");
+        }
+        
+    </script>
+</body>
+</html>
