@@ -81,6 +81,40 @@
             document.write("tompaszög");
         }
         
+        document.write("20"+Math.floor( Math.random()*23 ) + 1)
+        
+        document.write(Math.floor( Math.random()*24 ) + 1)
+        document.write(Math.floor( Math.random()*60 ) + 1)
+
+        let q=Math.floor( Math.random()*99 ) + 1;
+        let r=Math.floor( Math.random()*99 ) + 1;
+        let s=Math.floor( Math.random()*99 ) + 1;
+        let t=Math.floor( Math.random()*99 ) + 1;
+        let u=Math.floor( Math.random()*99 ) + 1;
+        document.write(q)
+        if (r != q && r != s && r != t && r != u) {
+            document.write(r)
+        }
+        if (s != q && s != r && s != t && s != u) {
+            document.write(s)
+        }
+        if (t != q && t != s && t != r && t != u) {
+            document.write(t)
+        }
+        if (u != q && u != s && u != t && u != r) {
+            document.write(u)
+        }
+
+        let v=Math.floor(Math.random()*16777215).toString(16)
+        document.write(v);
+
+        function randomString(length, chars) {
+            var result = '';
+            for (var i = length; i > 0; --i) result += chars[Math.floor(Math.random() * chars.length)];
+            return result;
+        }
+        var rString = randomString(10, '0123456789aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyzAÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ');
+		document.write(rString)
     </script>
 </body>
 </html>
