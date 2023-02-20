@@ -10,30 +10,37 @@
     <p id="wotvym"></p>
     <button onclick="leapYear()"></button>
     <script>
+	/*szek 1*/
         let a=prompt("adj meg szám");
         alert(a*2);
         alert(a*a);
-
+	    
+	/*szek 2*/
         let b=prompt("adj meg név");
         document.write("Konnichiwa "+b+"!\n");
-
+	
+	/*szek 3*/
         let c=prompt("adj meg születés");
         document.write(2023-c+"\n");
 
+	/*szek 4*/
         let d=prompt("adj meg szám");
         let e=prompt("adj meg szám");
         let f=prompt("adj meg szám");
         document.write((d+e+f)/3);
-
+	
+	/*szek 5*/
         const g = new Date();
         document.getElementById("wotvym").innerHTML = g.getSeconds();
-
+	
+	/*szek 6*/
         let h=prompt("adj meg szám");
         document.write(((h/100)*85)+"\n");
         document.write(((h/100)*70)+"\n");
         document.write(((h/100)*50)+"\n");
         document.write(((h/100)*35)+"\n");
 
+	/*elág 1*/
         let i=prompt("adj meg szám");
         let j=prompt("adj meg szám");
         if (i > j) {
@@ -43,6 +50,7 @@
             document.write(j+" nagyobb\n");
         }
 
+	/*elág 2*/
         let k=prompt("adj meg szám")
         if (k % 2 == 0) {
             document.write(k+" páros\n")
@@ -50,7 +58,8 @@
         else {
             document.write(k+" páratlan\n")
         }
-
+	
+	/*elág 3*/
         let l=prompt("adj meg víz hő")
         if (100>l>0) {
             document.write("a víz az víz\n")
@@ -62,11 +71,13 @@
             document.write("a víz az jég\n")
         }
         
+	/*elág 4*/
         let m=prompt("adj meg év\n")
         function leapYear(year) {
         return document.write((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
         }
 
+	/*elág 5*/
         let n=prompt("adj meg szám")
         let o=prompt("adj meg szám")
         let p=prompt("adj meg szám")
@@ -80,12 +91,15 @@
         else {
             document.write("tompaszög");
         }
-        
+	    
+        /*vél 1*/
         document.write("20"+Math.floor( Math.random()*23 ) + 1)
         
+	/*vél 2*/
         document.write(Math.floor( Math.random()*24 ) + 1)
         document.write(Math.floor( Math.random()*60 ) + 1)
-
+	
+	/*vél 3*/
         let q=Math.floor( Math.random()*99 ) + 1;
         let r=Math.floor( Math.random()*99 ) + 1;
         let s=Math.floor( Math.random()*99 ) + 1;
@@ -105,9 +119,11 @@
             document.write(u)
         }
 
+	/*vél 4*/
         let v=Math.floor(Math.random()*16777215).toString(16)
         document.write(v);
 
+	/*vél 5*/
         function randomString(length, chars) {
             var result = '';
             for (var i = length; i > 0; --i) result += chars[Math.floor(Math.random() * chars.length)];

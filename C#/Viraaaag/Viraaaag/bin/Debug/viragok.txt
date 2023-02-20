@@ -1,0 +1,24 @@
+﻿rózsa;500;50
+liliom;600;3
+gerbera;250;45
+alstromélia;400;33
+szegfű;200;60
+flamingó;800;2
+tulipán;350;25
+jácint;300;30
+kardvirág;250;17
+kála;600;12
+frézia;350;9
+irisz;200;4
+papagáj virág;1500;3
+liziantus;40017;4
+orchidea;5000;2
+krizantém;250;24
+amaryllis;1000;6
+anthurium;900;9
+boglárka;450;23
+szerencsebambusz;500;8
+szellőrózsa;400;19
+tubarózsa;300;9
+kakastaréj;300;3
+őszirózsa;200;24

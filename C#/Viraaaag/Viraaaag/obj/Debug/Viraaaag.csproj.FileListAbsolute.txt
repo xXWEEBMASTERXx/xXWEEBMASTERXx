@@ -1,0 +1,7 @@
+D:\gyányi Dániel\VS\Viraaaag\Viraaaag\bin\Debug\Viraaaag.exe.config
+D:\gyányi Dániel\VS\Viraaaag\Viraaaag\bin\Debug\Viraaaag.exe
+D:\gyányi Dániel\VS\Viraaaag\Viraaaag\bin\Debug\Viraaaag.pdb
+D:\gyányi Dániel\VS\Viraaaag\Viraaaag\obj\Debug\Viraaaag.csproj.AssemblyReference.cache
+D:\gyányi Dániel\VS\Viraaaag\Viraaaag\obj\Debug\Viraaaag.csproj.CoreCompileInputs.cache
+D:\gyányi Dániel\VS\Viraaaag\Viraaaag\obj\Debug\Viraaaag.exe
+D:\gyányi Dániel\VS\Viraaaag\Viraaaag\obj\Debug\Viraaaag.pdb
