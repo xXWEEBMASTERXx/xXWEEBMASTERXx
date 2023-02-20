@@ -1,0 +1,7 @@
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Programozás\C#\Település\Település\bin\Debug\Település.exe.config
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Programozás\C#\Település\Település\bin\Debug\Település.exe
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Programozás\C#\Település\Település\bin\Debug\Település.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Programozás\C#\Település\Település\obj\Debug\Település.csproj.AssemblyReference.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Programozás\C#\Település\Település\obj\Debug\Település.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Programozás\C#\Település\Település\obj\Debug\Település.exe
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Neumann\Programozás\C#\Település\Település\obj\Debug\Település.pdb

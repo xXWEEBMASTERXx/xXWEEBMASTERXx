@@ -79,7 +79,7 @@ static void ConsoleDraw(IEnumerable<string> lines, int x, int y)
             }
             return map;
         }
-class Sound
+		class Sound
         {
             private MediaPlayer music_Player;
 
