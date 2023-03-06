@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NIGMA</title>
+</head>
+<body>
+    <form>
+        <label for="activity-type">Sportág:</label>
+        <select id="activity-type" name="activity-type">
+            <option value="running">Futás</option>
+            <option value="swimming">Úszás</option>
+            <option value="cycling">Kerékpározás</option>
+            <option value="hiking">Túrázás</option>
+        </select>
+        <br>
+        <label for="activity-time">Időtartam (perc):</label>
+        <input type="number" id="activity-time" name="activity-time" min="1" required>
+        <br>
+        <label for="calories-burned">Elégetett kalóriák:</label>
+        <output id="calories-burned"></output>
+    </form>
+      
+    <script>
+        const caloriesPerMinute = {
+            running: 10,
+            swimming: 8,
+            cycling: 12,
+            hiking: 6
+        };
+        
+        const activityTypeSelect = document.getElementById('activity-type');
+        const activityTimeInput = document.getElementById('activity-time');
+        const caloriesOutput = document.getElementById('calories-burned');
+        
+        function updateCaloriesBurned() {
+            const activityType = activityTypeSelect.value;
+            const activityTime = activityTimeInput.value;
+            const caloriesBurned = activityTime * caloriesPerMinute[activityType];
+            caloriesOutput.value = caloriesBurned;
+        }
+        
+        activityTypeSelect.addEventListener('change', updateCaloriesBurned);
+        activityTimeInput.addEventListener('input', updateCaloriesBurned);
+        let activities = [];
+
+        function addActivity() {
+            let name = document.getElementById("activity-name").value;
+            let time = parseFloat(document.getElementById("activity-time").value);
+            let intensity = parseFloat(document.getElementById("activity-intensity").value);
+            let calories = calculateCalories(name, time, intensity);
+            activities.push({ name: name, time: time, intensity: intensity, calories: calories });
+            updateTotals();
+        }
+
+        function updateTotals() {
+            let totalTime = 0;
+            let totalCalories = 0;
+            for (let i = 0; i < activities.length; i++) {
+            totalTime += activities[i].time;
+            totalCalories += activities[i].calories;
+            }
+            document.getElementById("total-time").textContent = totalTime;
+            document.getElementById("total-calories").textContent = totalCalories;
+        }
+        function calculatePercentage(calories) {
+            let dailyCalories = 2000;
+            let percentage = calories / dailyCalories * 100;
+            return percentage.toFixed(0);
+        }
+        
+        function updatePercentage() {
+            let totalCalories = parseFloat(document.getElementById("total-calories").textContent);
+            let percentage = calculatePercentage(totalCalories);
+            document.getElementById("calories-percentage").textContent = percentage;
+        }
+        function clearFields() {
+            document.getElementById("activity-name").value = "";
+            document.getElementById("activity-time").value = "";
+            document.getElementById("activity-intensity").value = "";
+            activities = [];
+        }
+
+    </script>
+    <p>Összesen <span id="total-time"></span> percet sportoltál, és <span id="total-calories"></span> kalóriát égettél el.</p>
+    <p>A sportolás során elégetett kalóriamennyiség <span id="calories-percentage"></span>%-a az átlagos energiaszükségletnek.</p>
+    <button onclick="clearFields()">Adatok törlése</button>
+</body>
+</html>
