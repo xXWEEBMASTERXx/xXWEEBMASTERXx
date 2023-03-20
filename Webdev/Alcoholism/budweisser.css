@@ -1,0 +1,30 @@
+#szorzotabla
+{
+	border           : solid  1px  green  ;
+	box-shadow       : 4px 4px 4px #6A6   ;
+	border-radius    : 8px                ;
+	background-color : #00FFFF               ;
+}
+
+#szorzotabla tr td
+{
+	width            : 24px    ;
+	text-align       : right   ;
+	padding-right    : 4px     ;
+	line-height      : 20px    ;
+	font-family      : Arial   ;
+	font-size        : 12px    ;
+	border-radius    : 8px     ;
+	background-color : #99FF00    ;
+}
+
+#szorzotabla tr:nth-child(5n) td  , #szorzotabla tr td:nth-child(5n)
+{
+	background-color : #8F8    ;
+}
+
+#szorzotabla tr:first-child td    , #szorzotabla tr td:first-child
+{
+	background-color : #4C4    ;
+	font-weight      : bold    ;
+}
