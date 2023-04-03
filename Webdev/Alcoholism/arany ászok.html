@@ -4,10 +4,111 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>szorzótable</title>
-	<link rel="stylesheet" href="budweisser.css"></link>
+    <link rel="stylesheet" href="budweisser.css">
+    <title>Átváltó</title>
 </head>
 <body>
-	<script src="heineken.js"></script>
+    
+<form name='terfogat' style=' width: 320px; margin:32px auto; '>
+
+
+    <input  type  = 'text'    name= 'pint'   size=5
+
+            onFocus = 'document.terfogat.reset()'  
+            onBlur  = 'terfogat_szamol("pintből")'    > pint 
+
+
+    <input  type    = 'button'  value=' <---> '  
+            style   = 'margin:24px;'>
+
+
+    <input  type    = 'text'  name= 'liter'  size=5
+            onFocus = 'document.terfogat.reset()'
+            onBlur  = 'terfogat_szamol("literből")'   > liter
+
+</form>
+
+<form name='suly' style=' width: 320px; margin:32px auto; '>
+
+
+    <input  type  = 'text'    name= 'uncia'   size=5
+
+            onFocus = 'document.suly.reset()'  
+            onBlur  = 'suly_szamol("unciából")'    > uncia 
+
+
+    <input  type    = 'button'  value=' <---> '  
+            style   = 'margin:24px;'>
+
+
+    <input  type    = 'text'  name= 'gramm'  size=5
+            onFocus = 'document.suly.reset()'
+            onBlur  = 'suly_szamol("grammból")'   > gramm
+
+</form>
+
+<form name='homerseklet' style=' width: 320px; margin:32px auto; '>
+
+
+    <input  type  = 'text'    name= 'Celsius'   size=5
+
+            onFocus = 'document.homerseklet.reset()'  
+            onBlur  = 'homerseklet_szamol("Celsiusból")'    > Celsius 
+
+
+    <input  type    = 'button'  value=' <---> '  
+            style   = 'margin:24px;'>
+
+
+    <input  type    = 'text'  name= 'Fahrenheit'  size=5
+            onFocus = 'document.homerseklet.reset()'
+            onBlur  = 'homerseklet_szamol("Fahrenheitből")'   > Fahrenheit
+
+</form>
+
+<form name='tavolsag' style=' width: 320px; margin:32px auto; '>
+
+
+    <input  type  = 'text'    name= 'hüvelyk'   size=5
+
+            onFocus = 'document.tavolsag.reset()'  
+            onBlur  = 'tavolsag_szamol("hüvelykből")'    > hüvelyk
+     
+    <input  type  = 'text'    name= 'láb'   size=5
+
+            onFocus = 'document.tavolsag.reset()'  
+            onBlur  = 'tavolsag_szamol("lábból")'    > láb
+
+    <input  type  = 'text'    name= 'yard'   size=5
+
+            onFocus = 'document.tavolsag.reset()'  
+            onBlur  = 'tavolsag_szamol("yardból")'    > yard
+
+    <input  type  = 'text'    name= 'merfold'   size=5
+
+            onFocus = 'document.tavolsag.reset()'  
+            onBlur  = 'tavolsag_szamol("mérföldből")'    > mérföld
+
+    <input  type    = 'button'  value=' <---> '  
+            style   = 'margin:24px;'>
+
+
+    <input  type    = 'text'  name= 'mm'  size=5
+            onFocus = 'document.tavolsag.reset()'
+            onBlur  = 'tavolsag_szamol("mmből")'   > mm
+            <input  type    = 'text'  name= 'cm'  size=5
+            onFocus = 'document.tavolsag.reset()'
+            onBlur  = 'tavolsag_szamol("cmből")'   > cm
+            <input  type    = 'text'  name= 'm'  size=5
+            onFocus = 'document.tavolsag.reset()'
+            onBlur  = 'tavolsag_szamol("mből")'   > m
+            <input  type    = 'text'  name= 'km'  size=5
+            onFocus = 'document.tavolsag.reset()'
+            onBlur  = 'tavolsag_szamol("kmből")'   > km
+
+
+</form>
+
+<script src="heineken.js"></script>
 </body>
 </html>
