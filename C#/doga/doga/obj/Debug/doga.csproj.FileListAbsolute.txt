@@ -1,0 +1,7 @@
+D:\Gyányi Dániel\doga\doga\bin\Debug\doga.exe.config
+D:\Gyányi Dániel\doga\doga\bin\Debug\doga.exe
+D:\Gyányi Dániel\doga\doga\bin\Debug\doga.pdb
+D:\Gyányi Dániel\doga\doga\obj\Debug\doga.csproj.AssemblyReference.cache
+D:\Gyányi Dániel\doga\doga\obj\Debug\doga.csproj.CoreCompileInputs.cache
+D:\Gyányi Dániel\doga\doga\obj\Debug\doga.exe
+D:\Gyányi Dániel\doga\doga\obj\Debug\doga.pdb
