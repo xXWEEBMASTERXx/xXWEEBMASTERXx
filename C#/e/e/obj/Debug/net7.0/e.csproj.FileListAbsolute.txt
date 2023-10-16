@@ -1,0 +1,14 @@
+D:\Gyányi Dániel\e\e\bin\Debug\net7.0\e.exe
+D:\Gyányi Dániel\e\e\bin\Debug\net7.0\e.deps.json
+D:\Gyányi Dániel\e\e\bin\Debug\net7.0\e.runtimeconfig.json
+D:\Gyányi Dániel\e\e\bin\Debug\net7.0\e.dll
+D:\Gyányi Dániel\e\e\bin\Debug\net7.0\e.pdb
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\e.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\e.AssemblyInfoInputs.cache
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\e.AssemblyInfo.cs
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\e.csproj.CoreCompileInputs.cache
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\e.dll
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\refint\e.dll
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\e.pdb
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\e.genruntimeconfig.cache
+D:\Gyányi Dániel\e\e\obj\Debug\net7.0\ref\e.dll
