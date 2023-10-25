@@ -1,12 +1,16 @@
-﻿
-// 3. NemesGaz osztály létrehozása
-class NemesGaz : KemiaiElem
+﻿namespace Kemia
 {
-    public NemesGaz(string vegyjel, int rendszam) : base(vegyjel, rendszam, 8)
+    class NemesGaz : KemiaiElem
     {
-        if (Focsoport != 8)
+
+        public NemesGaz(string vegyjel, int rendszam) : base(vegyjel, rendszam, 8)
         {
-            throw new ArgumentException("A nemesgázok főcsoportja mindig 8.");
+            if (Focsoport != 8)
+            {
+                throw new ArgumentException("A nemesgázok főcsoportja mindig 8.");
+            }
         }
+
+
     }
 }

@@ -1,10 +1,16 @@
-﻿class NemFem : KemiaiElem
+﻿namespace Kemia
 {
-    public NemFem(string vegyjel, int rendszam, int focsoport) : base(vegyjel, rendszam, focsoport)
+    class NemFem : KemiaiElem
     {
-        if ((Focsoport + focsoport) % 8 != 0)
+
+        public NemFem(string vegyjel, int rendszam, int focsoport) : base(vegyjel, rendszam, focsoport)
         {
-            throw new ArgumentException("Két elem csak akkor reagálhat, ha a főcsoportok számának összege 8 osztható.");
+            if ((Focsoport + focsoport) % 8 != 0)
+            {
+                throw new ArgumentException("Két elem csak akkor reagálhat, ha a főcsoportok számának összege 8 osztható.");
+            }
         }
+
+
     }
 }

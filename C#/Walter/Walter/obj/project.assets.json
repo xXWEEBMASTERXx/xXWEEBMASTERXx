@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gyányi Dániel\\Walter\\Walter\\Walter.csproj",
-      "projectName": "Walter",
-      "projectPath": "D:\\Gyányi Dániel\\Walter\\Walter\\Walter.csproj",
+      "projectUniqueName": "D:\\Gyányi Dániel\\Walter\\Walter\\Kemia.csproj",
+      "projectName": "Kemia",
+      "projectPath": "D:\\Gyányi Dániel\\Walter\\Walter\\Kemia.csproj",
       "packagesPath": "C:\\Users\\Suli\\.nuget\\packages\\",
       "outputPath": "D:\\Gyányi Dániel\\Walter\\Walter\\obj\\",
       "projectStyle": "PackageReference",

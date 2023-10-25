@@ -1,58 +1,66 @@
-﻿class Vegyulet : IReakcioKepes
+﻿using System.Text;
+
+namespace Kemia
 {
-    private Dictionary<KemiaiElem, int> elemek;
-
-    public Vegyulet()
+    class Vegyulet : IReakcioKepes
     {
-        elemek = new Dictionary<KemiaiElem, int>();
-    }
+        
+        private readonly Dictionary<KemiaiElem, int> elemek;
 
-    public void HozzaadElem(KemiaiElem elem, int mennyiseg)
-    {
-        if (elemek.ContainsKey(elem))
+        public Vegyulet()
         {
-            elemek[elem] += mennyiseg;
+            elemek = new Dictionary<KemiaiElem, int>();
         }
-        else
+
+        public void HozzaadElem(KemiaiElem elem, int mennyiseg)
         {
-            elemek[elem] = mennyiseg;
-        }
-    }
-
-    public bool Szerves
-    {
-        get { return elemek.Keys.Any(elem => elem.Vegyjel == "C"); }
-    }
-
-    public bool Szénhidrát
-    {
-        get { return elemek.Keys.Count(elem => elem.Vegyjel == "C") == 1 && elemek.Keys.Count(elem => elem.Vegyjel == "H") == 2; }
-    }
-
-    public bool ReakciobaLephet()
-    {
-        foreach (var pair in elemek)
-        {
-            if (pair.Key.Vegyjel == "C")
+            if (elemek.ContainsKey(elem))
             {
-                return true;
+                elemek[elem] += mennyiseg;
+            }
+            else
+            {
+                elemek[elem] = mennyiseg;
             }
         }
-        return false;
-    }
 
-    public bool ReakciobaLephet(IReakcioKepes masik)
-    {
-        return ReakciobaLephet() && masik.ReakciobaLephet();
-    }
-
-    public override string ToString()
-    {
-        string result = "Vegyület összetétele:\n";
-        foreach (var pair in elemek)
+        public bool Szerves
         {
-            result += $"{pair.Key.Vegyjel} ({pair.Key.Rendszam}): {pair.Value}\n";
+            get { return elemek.Keys.Any(elem => elem.Vegyjel == "C"); }
         }
-        return result;
+
+        public bool Szénhidrát
+        {
+            get { return elemek.Keys.Count(elem => elem.Vegyjel == "C") == 1 && elemek.Keys.Count(elem => elem.Vegyjel == "H") == 2; }
+        }
+
+        public bool ReakciobaLephet()
+        {
+            foreach (var pair in elemek)
+            {
+                if (pair.Key.Vegyjel == "C")
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public bool ReakciobaLephet(IReakcioKepes masik)
+        {
+            return ReakciobaLephet() && masik.ReakciobaLephet();
+        }
+
+        public override string ToString()
+        {
+            string result = "Vegyület összetétele:\n";
+            StringBuilder builder = new(result);
+            foreach (var pair in elemek)
+            {
+
+                builder.Append($"{pair.Key.Vegyjel} ({pair.Key.Rendszam}): {pair.Value}");
+            }
+            return builder.ToString();
+        }
     }
 }

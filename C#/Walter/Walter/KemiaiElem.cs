@@ -1,29 +1,26 @@
-﻿class KemiaiElem : IReakcioKepes
+﻿namespace Kemia
 {
-    public string Vegyjel { get; }
-    public int Rendszam { get; }
-    public int Focsoport { get; }
-
-    public KemiaiElem(string vegyjel, int rendszam, int focsoport)
+    class KemiaiElem : IReakcioKepes
     {
-        Vegyjel = vegyjel;
-        Rendszam = rendszam;
-        Focsoport = focsoport;
-    }
+        public string Vegyjel { get; }
+        public int Rendszam { get; }
+        public int Focsoport { get; }
 
-    public bool ReakciobaLephet()
-    {
-        return true;
-    }
+        public KemiaiElem(string vegyjel, int rendszam, int focsoport)
+        {
+            Vegyjel = vegyjel;
+            Rendszam = rendszam;
+            Focsoport = focsoport;
+        }
 
-    public bool ReakciobaLephet(IReakcioKepes masik)
-    {
-        return ReakciobaLephet() && masik.ReakciobaLephet();
-    }
-}
+        public bool ReakciobaLephet()
+        {
+            return true;
+        }
 
-interface IReakcioKepes
-{
-    bool ReakciobaLephet();
-    bool ReakciobaLephet(IReakcioKepes masik);
+        public bool ReakciobaLephet(IReakcioKepes masik)
+        {
+            return ReakciobaLephet() && masik.ReakciobaLephet();
+        }
+    }
 }
