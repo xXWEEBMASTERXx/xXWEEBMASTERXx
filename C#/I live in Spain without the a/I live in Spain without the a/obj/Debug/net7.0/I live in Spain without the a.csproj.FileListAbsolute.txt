@@ -1,0 +1,14 @@
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\bin\Debug\net7.0\I live in Spain without the a.exe
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\bin\Debug\net7.0\I live in Spain without the a.deps.json
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\bin\Debug\net7.0\I live in Spain without the a.runtimeconfig.json
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\bin\Debug\net7.0\I live in Spain without the a.dll
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\bin\Debug\net7.0\I live in Spain without the a.pdb
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\I live in Spain without the a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\I live in Spain without the a.AssemblyInfoInputs.cache
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\I live in Spain without the a.AssemblyInfo.cs
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\I live in Spain without the a.csproj.CoreCompileInputs.cache
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\I live in Spain without the a.dll
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\refint\I live in Spain without the a.dll
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\I live in Spain without the a.pdb
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\I live in Spain without the a.genruntimeconfig.cache
+D:\Gyányi Dániel\I live in Spain without the a\I live in Spain without the a\obj\Debug\net7.0\ref\I live in Spain without the a.dll

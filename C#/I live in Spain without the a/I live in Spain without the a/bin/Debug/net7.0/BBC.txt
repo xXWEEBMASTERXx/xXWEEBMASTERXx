@@ -1,0 +1,9 @@
+72 8
+Farina 1
+Fangio 2
+Fagioli 1
+Rosier 4
+Ascari 3
+Parsons 2
+Holland 4
+Bira 1
