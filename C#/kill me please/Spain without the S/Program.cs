@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using answer;
 
-namespace kosar
+namespace Spain_without_the_S
 {
     class Program
     {

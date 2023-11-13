@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "answer", "answer\answer.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spain without the S", "Spain without the S\Spain without the S.csproj", "{BFE80294-6DDE-4AB0-9A2E-EA2F2A8709A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yes", "yes\yes.csproj", "{F4F5339E-1994-4B40-B18B-404263A5ECB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yes", "yes\yes.csproj", "{6EA296FA-43DB-4A1E-B4D1-0CEEAC686936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{BFE80294-6DDE-4AB0-9A2E-EA2F2A8709A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE80294-6DDE-4AB0-9A2E-EA2F2A8709A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE80294-6DDE-4AB0-9A2E-EA2F2A8709A6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F4F5339E-1994-4B40-B18B-404263A5ECB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4F5339E-1994-4B40-B18B-404263A5ECB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4F5339E-1994-4B40-B18B-404263A5ECB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4F5339E-1994-4B40-B18B-404263A5ECB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA296FA-43DB-4A1E-B4D1-0CEEAC686936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA296FA-43DB-4A1E-B4D1-0CEEAC686936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA296FA-43DB-4A1E-B4D1-0CEEAC686936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA296FA-43DB-4A1E-B4D1-0CEEAC686936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

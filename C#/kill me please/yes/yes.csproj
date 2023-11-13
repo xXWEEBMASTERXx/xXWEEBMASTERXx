@@ -19,6 +19,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\answer\answer.csproj" />
+      <ProjectReference Include="..\Spain without the S\Spain without the S.csproj" />
     </ItemGroup>
 
 </Project>
