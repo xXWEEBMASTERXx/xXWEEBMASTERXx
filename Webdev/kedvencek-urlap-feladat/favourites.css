@@ -1,0 +1,10 @@
+body {
+    color: black;
+    background: linear-gradient(to bottom, #a3bded, #6991c7);
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
