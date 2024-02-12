@@ -1,0 +1,12 @@
+$pokemons =
+    [
+        ["Bulbasaur",318,["grass","poison"]],
+        ["Charmander",280, ["fire"]],
+        ["Squirtle",270,["water"]],
+        ["Caterpie",125,["bug"]],
+        ["Weedle",130,["bug","poison"]],
+        ["Pidgey",135,["normal","flying"]],
+        ["Pikachu",142,["electric"]],
+        ["Muk",120,["poison"]],
+        ["Paras",118,["grass","bug"]]
+    ];

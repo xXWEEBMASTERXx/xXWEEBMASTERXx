@@ -1,0 +1,20 @@
+Hozz létre egy weboldalt, melyben a következő adatokat fogod dinamikusan létrehozni.
+
+Bootstrap card amelyben legyen egy kép, egy szöveg mint a pokemon neve, és egy gomb, mely átirányít az adott nevű pokemonra a google.com keresésben.
+
+A képek az img mappában van tárolva, és megeggyeznek a pokemon nevével.
+
+Legyen egy "kereső" amely egy dropdown menü segítségével csak az adott pokemonok element típusait tárolja, és ezek alapján szűr.
+
+Legyen egy beviteli mező, melyben ha az adott pokemonra keresünk, akkor csak annak az a "card" fog megjelenni.
+
+Ez a weboldal egy index.php névvel rendelkezzen.
+
+A pokemonok adatait a data.php tartalmazza, melyet osztály szinten kell tárolni, és CSAK getter-rel szabad elérni az adatait.
+
+Az osztály neve legyen Pokemon.
+
+
+
+
+
