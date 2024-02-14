@@ -12,3 +12,17 @@ D:\Gyányi Dániel\d\d\obj\Debug\net7.0\refint\d.dll
 D:\Gyányi Dániel\d\d\obj\Debug\net7.0\d.pdb
 D:\Gyányi Dániel\d\d\obj\Debug\net7.0\d.genruntimeconfig.cache
 D:\Gyányi Dániel\d\d\obj\Debug\net7.0\ref\d.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\bin\Debug\net7.0\d.exe
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\bin\Debug\net7.0\d.deps.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\bin\Debug\net7.0\d.runtimeconfig.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\bin\Debug\net7.0\d.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\bin\Debug\net7.0\d.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\d.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\d.AssemblyInfoInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\d.AssemblyInfo.cs
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\d.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\d.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\refint\d.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\d.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\d.genruntimeconfig.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\d\d\obj\Debug\net7.0\ref\d.dll
