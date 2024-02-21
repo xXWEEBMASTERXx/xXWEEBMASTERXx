@@ -1,0 +1,15 @@
+﻿<Window x:Class="Wah.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wah"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="myLabel" Content="Label!" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,199,0,0"/>
+        <Button Content="Resize" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="379,255,0,0" Click="ResizeButton_Click"/>
+        <Button Content="Reset" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="476,255,0,0" Click="ResetButton_Click"/>
+        <Button Content="Magic" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="292,255,0,0" Click="ChangeBackgroundButton_Click"/>
+    </Grid>
+</Window>
