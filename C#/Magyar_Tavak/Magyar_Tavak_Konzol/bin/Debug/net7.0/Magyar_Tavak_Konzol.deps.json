@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Magyar_Tavak_Konzol/1.0.0": {
+        "dependencies": {
+          "Magyar_Tavak_Classes": "1.0.0"
+        },
+        "runtime": {
+          "Magyar_Tavak_Konzol.dll": {}
+        }
+      },
+      "Magyar_Tavak_Classes/1.0.0": {
+        "runtime": {
+          "Magyar_Tavak_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magyar_Tavak_Konzol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magyar_Tavak_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

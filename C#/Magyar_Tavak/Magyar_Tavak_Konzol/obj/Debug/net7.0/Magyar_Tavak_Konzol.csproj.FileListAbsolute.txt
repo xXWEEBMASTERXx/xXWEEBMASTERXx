@@ -1,0 +1,39 @@
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\alloviz.txt
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\helykapcs.txt
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\telepulesgps.txt
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.exe
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.deps.json
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.runtimeconfig.json
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.dll
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.pdb
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.AssemblyInfoInputs.cache
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.AssemblyInfo.cs
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.csproj.CoreCompileInputs.cache
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.dll
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\refint\Magyar_Tavak_Konzol.dll
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.pdb
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.genruntimeconfig.cache
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\ref\Magyar_Tavak_Konzol.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\alloviz.txt
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\helykapcs.txt
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\telepulesgps.txt
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.exe
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.deps.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.runtimeconfig.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Konzol.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.AssemblyInfoInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.AssemblyInfo.cs
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.sourcelink.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\refint\Magyar_Tavak_Konzol.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.genruntimeconfig.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\ref\Magyar_Tavak_Konzol.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Classes.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\bin\Debug\net7.0\Magyar_Tavak_Classes.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_Tavak_Konzol.csproj.AssemblyReference.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak_Konzol\obj\Debug\net7.0\Magyar_T.712E76D6.Up2Date

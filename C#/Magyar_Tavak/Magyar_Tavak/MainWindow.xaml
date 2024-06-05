@@ -1,0 +1,21 @@
+﻿<Window x:Class="Magyar_Tavak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Magyar_Tavak"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <ComboBox x:Name="Telepulesek" HorizontalAlignment="Left" Margin="113,37,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Tavak" HorizontalAlignment="Left" Margin="564,37,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Települések" HorizontalAlignment="Left" Margin="136,6,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Content="Tavak" HorizontalAlignment="Left" Margin="604,6,0,0" VerticalAlignment="Top" Width="40"/>
+        <Label Content="Tipus" HorizontalAlignment="Left" Margin="548,91,0,0" VerticalAlignment="Top"/>
+        <Label Content="Terület" HorizontalAlignment="Left" Margin="548,187,0,0" VerticalAlignment="Top"/>
+        <Label Content="Hosszúság" HorizontalAlignment="Left" Margin="105,109,0,0" VerticalAlignment="Top"/>
+        <Label Content="Szélesség" HorizontalAlignment="Left" Margin="105,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.414,1.581"/>
+        <Label Content="Vízgyűjtő" HorizontalAlignment="Left" Margin="548,277,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

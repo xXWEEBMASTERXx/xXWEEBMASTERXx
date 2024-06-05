@@ -1,0 +1,47 @@
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\alloviz.txt
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\helykapcs.txt
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\telepulesgps.txt
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.exe
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.deps.json
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.runtimeconfig.json
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.dll
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.pdb
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\App.g.cs
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak_MarkupCompile.cache
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak_MarkupCompile.lref
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.g.resources
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.AssemblyInfoInputs.cache
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.AssemblyInfo.cs
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.csproj.CoreCompileInputs.cache
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.dll
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\refint\Magyar_Tavak.dll
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.pdb
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.genruntimeconfig.cache
+D:\Gyányi Dániel\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\ref\Magyar_Tavak.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\alloviz.txt
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\helykapcs.txt
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\telepulesgps.txt
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.exe
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.deps.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.runtimeconfig.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\bin\Debug\net7.0-windows\Magyar_Tavak.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\App.g.cs
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak_MarkupCompile.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak_MarkupCompile.lref
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.g.resources
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.AssemblyInfoInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.AssemblyInfo.cs
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.csproj.CoreCompileInputs.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.sourcelink.json
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\refint\Magyar_Tavak.dll
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.pdb
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\Magyar_Tavak.genruntimeconfig.cache
+D:\Dokumentumok\2 DANI DOKUMENTUMAI\Github Repositories\xXWEEBMASTERXx\C#\Magyar_Tavak\Magyar_Tavak\obj\Debug\net7.0-windows\ref\Magyar_Tavak.dll
